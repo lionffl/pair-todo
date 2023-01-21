@@ -14,7 +14,7 @@ Clone and install pair-todo React App for frontend: [pair-todo-frontend](https:/
 
 * Add recovery account / password
 * Add task sharing option with another user
-* Add UI for better experience at desktops devices
+* Update UI for better experience at desktops devices
 * Improve error handling
 
 ## Contact
