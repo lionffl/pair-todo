@@ -4,11 +4,11 @@ This repository constains instructions only. The code can be found in two reposi
 
 ## Backend
 
-Clone and install pair-todo Rails API for backend: https://github.com/lionffl/pair-todo-backend
+Clone and install pair-todo Rails API for backend: [pair-todo-backend](https://github.com/lionffl/pair-todo-backend)
 
 ## Frontend
 
-Clone and install pair-todo React App for frontend: https://github.com/lionffl/pair-todo-frontend
+Clone and install pair-todo React App for frontend: [pair-todo-frontend](https://github.com/lionffl/pair-todo-frontend)
 
 ## Contact
 
